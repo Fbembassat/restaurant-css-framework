@@ -15,4 +15,20 @@ C'est un exercice dans le cadre de la formation chez Becode.
 
 - Bootstrap 4.5.0
 
-# Lien de la page
+# Lien de mon site
+
+https://fbembassat.github.io/restaurant-css-framework/
+
+# Sources utilisés
+
+- images
+
+https://unsplash.com/
+
+- icones
+
+https://icon-icons.com/
+
+- fonts
+
+https://fonts.google.com/
